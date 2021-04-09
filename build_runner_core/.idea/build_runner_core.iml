@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/c/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/c/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/d/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/basic_pkg/pkg/d/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/collection/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/collection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/intl/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/intl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/string_scanner/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/pkg/string_scanner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_driver/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_driver/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_gallery_assets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_gallery_assets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_test/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/flutter_pkg/sdk/flutter/flutter_test/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/no_packages_file/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/no_packages_file/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/a/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/a/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/b/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/b/build" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/c/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/test/fixtures/with_dev_deps/pkg/c/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
